@@ -43,6 +43,4 @@ export default {
 
 {{ 4 + 5 * 9 }}
 
-<span v-for="i in 4">gift</span>
-
-<demo-1/>
+<MyComponent :start="5"></MyComponent>

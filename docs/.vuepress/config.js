@@ -8,10 +8,9 @@ module.exports = {
       { text: "Tribe", link: "/tribe/" },
       { text: "External", link: "https://google.com" }
     ],
-
     sidebar: [
-        '/',
-        '/page-b'
+      '/',
+      '/tribe',
     ]
   }
 };
